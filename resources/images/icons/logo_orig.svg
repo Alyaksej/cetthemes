@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.44913mm"
+   height="168.19mm"
+   viewBox="0 0 172.44913 168.19"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_orig.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style6"
+       type="text/css"><![CDATA[
+    .fil0 {fill:#237699}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]></style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.42075195"
+     inkscape:cx="-399.997"
+     inkscape:cy="270.34471"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.227916,-16.237018)">
+    <ellipse
+       ry="29.162155"
+       rx="18.421782"
+       cy="97.988541"
+       cx="152.94597"
+       id="ellipse32"
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.39025486;stroke-miterlimit:10;stroke-dasharray:none" />
+    <ellipse
+       ry="25.648642"
+       rx="13.326394"
+       cy="97.924591"
+       cx="197.49004"
+       id="ellipse34"
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.31128716;stroke-miterlimit:10;stroke-dasharray:none" />
+    <ellipse
+       transform="matrix(0.98340755,-0.18141003,0.2507331,0.96805625,0,0)"
+       ry="27.689247"
+       rx="15.042701"
+       cy="74.61467"
+       cx="154.69566"
+       id="ellipse36"
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.34363008;stroke-miterlimit:10;stroke-dasharray:none" />
+    <ellipse
+       transform="matrix(0.97213465,0.23442317,-0.28813574,0.95758958,0,0)"
+       ry="30.595486"
+       rx="15.679714"
+       cy="110.99395"
+       cx="208.63219"
+       id="ellipse38"
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.36878264;stroke-miterlimit:10;stroke-dasharray:none" />
+    <ellipse
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.39025486;stroke-miterlimit:10;stroke-dasharray:none"
+       id="ellipse40"
+       cx="152.94597"
+       cy="97.988541"
+       rx="18.421782"
+       ry="29.162155" />
+    <ellipse
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.31128716;stroke-miterlimit:10;stroke-dasharray:none"
+       id="ellipse42"
+       cx="197.49004"
+       cy="97.924591"
+       rx="13.326394"
+       ry="25.648642" />
+    <ellipse
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.34363008;stroke-miterlimit:10;stroke-dasharray:none"
+       id="ellipse44"
+       cx="154.69566"
+       cy="74.61467"
+       rx="15.042701"
+       ry="27.689247"
+       transform="matrix(0.98340755,-0.18141003,0.2507331,0.96805625,0,0)" />
+    <ellipse
+       style="fill:#088a4b;fill-opacity:1;stroke-width:0.36878264;stroke-miterlimit:10;stroke-dasharray:none"
+       id="ellipse46"
+       cx="208.63219"
+       cy="110.99395"
+       rx="15.679714"
+       ry="30.595486"
+       transform="matrix(0.97213465,0.23442317,-0.28813574,0.95758958,0,0)" />
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+:imagesdir: img
+
+=	Экспорт в формат PDF
+
+Для перевода документа в PDF формат необходимо открыть терминал перейти в каталог
+в котором находятся файлы _main.adoc_ и _title.adoc_ (cetthemes/) как указано на рисунке <<pic_5>>.
+
+[[pic_5]]
+.Терминал
+image::5.png[]
+
+В зависимости от операционной системы, которой вы пользуетесь нужно ввести в командную строку
+одну из следующих команд:
+
+Linux:
+----
+docker run --rm -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf title.adoc main.adoc
+----
+
+Windows:
+----
+docker run --rm -v %cd%:/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf title.adoc main.adoc
+----
+
+.Команда
+image::6.png[]
+
+После появления файлов PDF следует переименовать _main.pdf_, удалить файл _title.pdf_ и
+очистить содержимое папок *includes* и *img*.
+
+<<<<

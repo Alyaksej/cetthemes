@@ -1,0 +1,46 @@
+
+:imagesdir: resources/images
+
+//= (C) LLC  «Circuit Engineering Technologies»
+At a reprint, reference to Cirquete Engineering Technologies LLC is obligatory
+
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+{nbsp} +
+
+[cols="1,1", grid=none, frame=none]
+|====
+<.^| Legal address:                                |
+<.^| Partizanskaya ave, 6D, of. 413                |
+<.^| Minsk, 220140, Belarus                        |
+<.^| LLC  «Сircuit Engineering Technologies »      |
+<.^| image:phone.png[width=20] +375 (17) 336-66-67 |
+<.^| image:fax.png[width=25] +375 (17) 336-66-67   |
+<.^| image:letter.png[width=25] info@citech.by     |
+<.^| image:earth.png[width=25] citech.by           |
+2+|
+2+|
+2+|
+2+|
+2+|
+2+|
+2+>| {version}/{date}/{authorinitials}
+|====

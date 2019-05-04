@@ -1,0 +1,27 @@
+:my-title: Создание технической документации
+:my-subtitle: Краткая инструкция
+:city-date: Минск 2019
+= {my-title}: {my-subtitle}
+:notitle:
+:date: 29.04.2019
+:version: 0.0.1
+:author_name: Семашко Алексей
+:lang: ru
+:front-cover-image: title.pdf
+:parametres_path: resources/themes/parametres/{lang}
+include::{parametres_path}/parametres.adoc[lines1..34]
+include::{parametres_path}/author.adoc[]
+
+//Далее идет заполнение документа
+include::includes/including.adoc[leveloffset=+1]
+include::includes/including1.adoc[leveloffset=+1]
+include::includes/including2.adoc[leveloffset=+1]
+include::includes/including3.adoc[leveloffset=+1]
+
+== {version-doc}
+
+[cols="3,4,4,10a", options="header"]
+|===
+| {version-tab}     | {date-tab}   | {author-tab}   | {amendment-tab}
+.<| {version}     .<| {date}     .<| {author}     .<| {date}
+|===

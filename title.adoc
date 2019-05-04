@@ -1,0 +1,54 @@
+:encoding: utf-8
+:toc-title: My Content
+:doctype: book
+:lang: ru
+:stem: asciimath
+:frame: topbot
+:grid: all
+:align: center
+:idseparator: -
+:pdf-stylesdir: resources/themes
+:pdf-fontsdir: resources/fonts
+:pdf-style: title-theme.yml
+:imagesdir: resources/images/icons
+:source-highlighter: rouge
+include::main.adoc[lines=1..3]
+
+
+[grid=none]
+[cols="32"]
+|====
+32+|
+32+|
+| 25+| 5.6+>a| image:logo_orig.svg[,400] |
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||
+32+| 32+| 32+| 32+| 32+| 32+| 32+| 32+|
+32+| 32+| 32+| 32+| 32+| 32+| 32+| 32+|
+| 5.40+<.^a|image:background_orig.svg[,100] | 24.40+<.^a| == {my-title}
+{my-subtitle}
+|
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||
+32+| 32+| 32+| 32+| 32+| 32+| 32+| 32+|
+32+| 32+| 32+| 32+| 32+| 32+| 32+| 32+|
+| 30.4+^a|
+
+[cols="1"]
+[frame=none, grid=rows]
+!===
+!
+^! {city-date}
+!===
+
+|||||||
+
+32+|
+
+|====

@@ -1,0 +1,33 @@
+:sectnums:
+:sectnumlevels: 4
+:chapter-label: {sp}
+:author: {author_name}
+:email: grudovich@citech.by
+:toc:
+:toclevels: 4
+:toc-title: Content
+:preface-title: (C) LLC «Circuit Engineering Technologies»
+:table-caption: Table
+:figure-caption: Drawning
+:encoding: utf-8
+:doctype: book
+:frame: topbot
+:stem: asciimath
+:align: left
+:pdf-style: cet-theme.yml
+:pdf-stylesdir: resources/themes
+:pdf-fontsdir: resources/fonts
+:imagesdir: resources/images
+:source-highlighter: rouge
+:linkattrs:
+//:xrefstyle: short
+:version-tab: Version
+:date-tab: Date
+:author-tab: Author
+:amendment-tab: Amendment
+:version-doc: Version of the document
+:icons:
+:iconsdir: resources/images/icons
+:icontype: svg
+:table-frame: topbot
+:table-grid: all
