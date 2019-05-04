@@ -1,5 +1,5 @@
-:my-title: Создание технической документации
-:my-subtitle: Краткая инструкция
+:my-title: Название документа
+:my-subtitle: Подзаглавие
 :city-date: Минск 2019
 = {my-title}: {my-subtitle}
 :notitle:
@@ -14,9 +14,6 @@ include::{parametres_path}/author.adoc[]
 
 //Далее идет заполнение документа
 include::includes/including.adoc[leveloffset=+1]
-include::includes/including1.adoc[leveloffset=+1]
-include::includes/including2.adoc[leveloffset=+1]
-include::includes/including3.adoc[leveloffset=+1]
 
 == {version-doc}
 
