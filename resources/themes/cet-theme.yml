@@ -129,7 +129,7 @@ caption:
   margin_inside: $vertical_rhythm / 5
   #margin_inside: $vertical_rhythm / 4
   margin_outside: 0
-  align: right
+  align: center
 lead:
   font_size: $base_font_size_large
   line_height: 1.4
