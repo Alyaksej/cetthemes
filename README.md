@@ -101,6 +101,9 @@ include::includes/including.adoc[leveloffset=+1]
 В зависимости от операционной системы, которой вы пользуетесь нужно ввести в командную строку
 одну из следующих команд:
 
+
+!!!!!ВАЖНО!!!!! Избегайте в названиях файлов и путей к ним кирилических букв!!!!!
+
 Linux:
 `docker run --rm -v $(pwd):/documents/ asciidoctor/docker-asciidoctor asciidoctor-pdf title.adoc main.adoc`
 
