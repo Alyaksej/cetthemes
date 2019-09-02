@@ -6,7 +6,7 @@
 :toc:
 :toclevels: 4
 :toc-title: Содержание
-:preface-title: (C) ООО «Сиркьют Инжиниринг Технолоджиз»
+:preface-title: (C) ООО «Сиркьют Инжиниринг Технолоджиз
 :table-caption: Таблица
 :figure-caption: Рисунок
 :encoding: utf-8

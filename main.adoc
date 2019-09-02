@@ -14,6 +14,8 @@ include::{parametres_path}/author.adoc[]
 
 //Далее идет заполнение документа
 include::includes/including.adoc[leveloffset=+1]
+include::includes/tabb.adoc[leveloffset=+1]
+
 
 == {version-doc}
 
